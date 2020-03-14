@@ -3,3 +3,4 @@ WFを学びます。
 
 Gitの変更を学びます。
 Git removeを学んだ
+Git status
